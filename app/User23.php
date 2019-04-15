@@ -10,4 +10,8 @@ class User23 extends Model
 
 
     public $var_num_1 = 1;
+
+    public $var_num2 = 2;
+
+    public $var_num3 = 3;
 }
